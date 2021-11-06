@@ -2,7 +2,7 @@
 
     class vistasModelo{
         
-        /* -------- Modelo para obtener vistas -------- */
+        /* -------- Model to get views -------- */
         protected static function obtener_vistas_modelo($vistas){
 
             $listaBlanca = [

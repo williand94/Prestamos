@@ -22,3 +22,4 @@
 </script>
 
 <script src="<?php SERVERURL ?>vistas/js/main.js"></script>
+<script src="<?php SERVERURL ?>vistas/js/alertas.js"></script>

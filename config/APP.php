@@ -1,6 +1,6 @@
 <?php
 
-const SERVERURL = "http://localhost/prestamos/";
+const SERVERURL = "https://localhost/prestamos/";
 
 const COMPANY = "SISTEMAS COMPANY";
 

@@ -4,12 +4,12 @@
 
     class vistasControlador extends vistasModelo{
 
-        /* -------- Controlador obtener plantilla -------- */
+        /* -------- Controller to get template-------- */
         public function obtener_plantilla_controlador(){
             return require_once "./vistas/plantilla.php";
         }
 
-        /* -------- Controlador obtener vistas -------- */
+        /* -------- Controller to get views-------- */
         public function obtener_vistas_controlador(){
             if (isset($_GET["views"])) {
                 $ruta = explode("/", $_GET["views"]);
